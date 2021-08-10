@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Marriweather', serif;
+
+}
+h1{
+color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacrameto', cursive;
+  font-weight: bold;
+}
+
+h2
+{
+  color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+}
+
+h3
+  {
+    color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+    }
+P{
+  color: black;
+}
+.top-container{
+  background-color: white;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link{
+  width: 5%;
+  height: 10%;
+}
+
+.btn-img{
+  width: 3%;
+  height: 5%;
+}
+
+.email-img{
+  width: 4%;
+  height: 6%;
+}
+
+.data-analysis{
+  width: 25%;
+  height: 40%;
+  float: left;
+  margin-right: 30px;
+}
+.web-development{
+  width: 25%;
+  height: 40%;
+  float: right;
+  margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.heading-paragraph{
+  color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+}
